@@ -38,6 +38,7 @@ These are configs created or copied from another game.
 | 4541006D.bin | Oddworld: Stranger’s Wrath         | Mortal Kombat: Deception (4D570019) modified | Fixes crash preventing entering levels and text issues                 | Exzedo          |
 | 54540088.bin | Army Men: Major Malfunction        | Custom                                       | Fixes severe texture issues                                            | Elko992         |
 | 544D0001.bin | Shrek                              | Psychonauts (4D4A0012)                       | Fixes texture issues and heavy slowdown in some areas                  | RollPlayStation |
+| 5451001E.bin | Finding Nemo                       | Custom                                       | Fixes 'Disc Dirty or Damaged' error.                  | RollPlayStation |
 
 &nbsp;
 
